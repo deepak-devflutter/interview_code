@@ -10,7 +10,7 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(title: 'Products App', home: ProductsScreen());
+    return MaterialApp(title: 'Products List', home: ProductsScreen());
   }
 }
 
